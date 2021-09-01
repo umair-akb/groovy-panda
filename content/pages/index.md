@@ -9,7 +9,7 @@ sections:
       Work with the vanilla OpenOSRS client (not Runelite).
     actions:
       - label: Join Discord
-        url: /features
+        url: 'https://cutt.ly/HyTech'
         style: primary
         no_follow: true
       - label: Contact Us
