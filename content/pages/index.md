@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Custom OpenOSRS Plugins
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We make the most elite custom OpenOSRS Plugins on the market. These are
+      plug-n-play within 5 minutes. No complicated setups. One lifetime fee.
+      Work with the vanilla OpenOSRS client (not Runelite).
     actions:
       - label: Learn More
         url: /features
