@@ -13,7 +13,8 @@ sections:
         style: primary
         no_follow: true
       - label: Reputation
-        url: /contact
+        url: >-
+          https://www.sythe.org/threads/100-donor-custom-openosrs-plugins-auto-infernal-auto-gwd-auto-corp-spec/
         style: secondary
     align: left
     image: /images/55961530.png
