@@ -11,6 +11,7 @@ sections:
       - label: Join Discord
         url: /features
         style: primary
+        no_follow: true
       - label: Contact Us
         url: /contact
         style: secondary
