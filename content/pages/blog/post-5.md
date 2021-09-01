@@ -9,7 +9,7 @@ tags:
   - Netlify
 image: /images/maxresdefault.jpg
 image_alt: Post 5 placeholder image
-excerpt: 'There are reports of a '
+excerpt: 'There are reports of a large scale, massive bug '
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
