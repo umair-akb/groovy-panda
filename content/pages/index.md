@@ -12,7 +12,7 @@ sections:
         url: 'https://cutt.ly/HyTech'
         style: primary
         no_follow: true
-      - label: Contact Us
+      - label: Reputation
         url: /contact
         style: secondary
     align: left
