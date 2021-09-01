@@ -71,7 +71,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Latest OpenOSRS Updates
     show_recent: true
     recent_count: 3
   - type: cta_section
