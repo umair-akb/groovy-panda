@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Join Discord
             url: /features
             style: secondary
       - title: Feature 2
