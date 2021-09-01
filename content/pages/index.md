@@ -8,7 +8,7 @@ sections:
       plug-n-play within 5 minutes. No complicated setups. One lifetime fee.
       Work with the vanilla OpenOSRS client (not Runelite).
     actions:
-      - label: Learn More
+      - label: Join Discord
         url: /features
         style: primary
       - label: Contact Us
