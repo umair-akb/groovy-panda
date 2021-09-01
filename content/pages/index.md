@@ -31,10 +31,11 @@ sections:
     title: Featured Plugins
     features:
       - title: Auto Plank Maker Pro
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Perfect automated plank maker pro plugin for OSRS. Make untold
+          millions, or gather all the supplies needed for your ironman. Perfect
+          for muling or for casual botting. 0 bans reported so far. Join our
+          Discord for more info.
         align: left
         image: /images/AQWC1No8DP.gif
         image_alt: Feature 1 placeholder image
