@@ -11,7 +11,8 @@ image: /images/maxresdefault.jpg
 image_alt: Post 5 placeholder image
 excerpt: >-
   There are reports of a large scale, massive bug that caused 200B OSRS to be
-  dumped. 
+  dumped. Was this the reason for the massive drop in gold prices? Find out the
+  reasons in this blog post. 
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
