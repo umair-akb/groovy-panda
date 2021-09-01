@@ -42,7 +42,7 @@ sections:
         image_position: right
         actions:
           - label: Join Discord
-            url: /features
+            url: 'https://cutt.ly/HyTech'
             style: secondary
       - title: Feature 2
         content: >-
